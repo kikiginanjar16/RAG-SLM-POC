@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+rank-bm25
+pydantic-settings
+requests
